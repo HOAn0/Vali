@@ -1,0 +1,61 @@
+﻿@model IEnumerable<WebVali.Models.TChiTietSanPham>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">Sản phẩm</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item">
+            @Html.ActionLink("Dashboard", "Index", "Home")
+        </li>
+        <li class="breadcrumb-item active">Sản phẩm</li>
+    </ol>
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-table me-1"></i>
+            Sản phẩm
+        </div>
+        <div class="card-body">
+            <table style="text-align: center" id="datatablesSimple">
+                <thead>
+                    <tr>
+                        <th>Mã CTSP</th>
+                        <th>Mã sản phẩm</th>
+                        <th>Kích thước</th>
+                        <th>Màu sắc</th>
+                        <th>Ảnh đại diện</th>
+                        <th>Đơn giá</th>
+                        <th>Giảm giá</th>
+                        <th>SL tồn</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var sp in Model)
+                    {
+                        <tr>
+                            <td>@sp.MaChiTietSp</td>
+                            <td>@sp.MaSp</td>
+                            <td>@sp.MaKichThuocNavigation?.KichThuoc</td>
+                            <td>@sp.MaMauSacNavigation?.TenMauSac</td>
+                            <td>@sp.AnhDaiDien</td>
+                            <td>@sp.DonGiaBan</td>
+                            <td>@sp.GiamGia</td>
+                            <td>@sp.Slton</td>
+                            <td>
+                                <div class="icon_fix_add">
+                                    @Html.ActionLink("", "Edit", new { Id = sp.MaChiTietSp.Trim() }, new { @class = "fa-solid fa-pen-to-square", title = "Sửa" })
+                                    @Html.ActionLink("", "Details", new { Id = sp.MaChiTietSp.Trim() }, new { @class = "fa-solid fa-circle-info", title = "Chi tiết" })
+                                    @Html.ActionLink("", "Delete", new { Id = sp.MaChiTietSp.Trim() }, new { @class = "fa-solid fa-trash", title = "Xóa" })
+                                </div>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

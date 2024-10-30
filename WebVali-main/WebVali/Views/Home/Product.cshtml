@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">Sản phẩm</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item">
+            @Html.ActionLink("Dashboard", "Index", "Home")
+        </li>
+        <li class="breadcrumb-item active">Sản phẩm</li>
+    </ol>
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-table me-1"></i>
+            Sản phẩm
+        </div>
+        <div class="card-body">
+            <table id="datatablesSimple">
+                <thead>
+                    <tr>
+                        <th>Mã sản phẩm</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Hình ảnh</th>
+                        <th>Thông số</th>
+                        <th>Giá</th>
+                        <th>Giảm giá</th>
+                        <th>Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>SP_001</td>
+                        <td>Dell Laptop</td>
+                        <td>Hình ảnh</td>
+                        <td>
+                            <p>
+                                RAM: 8G <br />
+                                Dung lượng: <br />
+                                Màn hình: ... <br />
+                            </p>
+                        </td>
+                        <td>20 000 000 VND</td>
+                        <td>18 900 000 VND</td>
+                        <td>
+                            <div>
+
+                                <i class="fa-solid fa-pen-to-square"></i>
+                                <i class="fa-solid fa-trash"></i>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
