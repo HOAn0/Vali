@@ -514,3 +514,4 @@ C:\Users\Huy Hoàn\Documents\Technology Software\Service-Oriented Architecture -
 C:\Users\Huy Hoàn\Documents\Technology Software\Service-Oriented Architecture - SOA (PTPMHDV)\ValiStore\WebVali-main\WebVali\obj\Debug\net8.0\WebVali.pdb
 C:\Users\Huy Hoàn\Documents\Technology Software\Service-Oriented Architecture - SOA (PTPMHDV)\ValiStore\WebVali-main\WebVali\obj\Debug\net8.0\WebVali.genruntimeconfig.cache
 C:\Users\Huy Hoàn\Documents\Technology Software\Service-Oriented Architecture - SOA (PTPMHDV)\ValiStore\WebVali-main\WebVali\obj\Debug\net8.0\ref\WebVali.dll
+C:\Users\Huy Hoàn\Documents\Technology Software\Service-Oriented Architecture - SOA (PTPMHDV)\ValiStore\WebVali-main\WebVali\obj\Debug\net8.0\WebVali.sourcelink.json

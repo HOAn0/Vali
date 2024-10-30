@@ -18,7 +18,7 @@
             Sản phẩm
         </div>
         <div class="card-body">
-            <table style="text-align: center" id="datatablesSimple">
+            <table id="datatablesSimple">
                 <thead>
                     <tr>
                         <th>Mã CTSP</th>
@@ -27,8 +27,8 @@
                         <th>Màu sắc</th>
                         <th>Ảnh đại diện</th>
                         <th>Đơn giá</th>
-                        <th>Giảm giá</th>
                         <th>SL tồn</th>
+                        <th></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -37,17 +37,16 @@
                         <tr>
                             <td>@sp.MaChiTietSp</td>
                             <td>@sp.MaSp</td>
-                            <td>@sp.MaKichThuocNavigation?.KichThuoc</td>
+                            <td><div class="truncate-text">@sp.MaKichThuocNavigation?.KichThuoc</div></td>
                             <td>@sp.MaMauSacNavigation?.TenMauSac</td>
-                            <td>@sp.AnhDaiDien</td>
+                            <td><div class="truncate-text">@sp.AnhDaiDien</div></td>
                             <td>@sp.DonGiaBan</td>
-                            <td>@sp.GiamGia</td>
                             <td>@sp.Slton</td>
                             <td>
-                                <div class="icon_fix_add">
-                                    @Html.ActionLink("", "Edit", new { Id = sp.MaChiTietSp.Trim() }, new { @class = "fa-solid fa-pen-to-square", title = "Sửa" })
-                                    @Html.ActionLink("", "Details", new { Id = sp.MaChiTietSp.Trim() }, new { @class = "fa-solid fa-circle-info", title = "Chi tiết" })
-                                    @Html.ActionLink("", "Delete", new { Id = sp.MaChiTietSp.Trim() }, new { @class = "fa-solid fa-trash", title = "Xóa" })
+                                <div>
+                                    <a href="javascript:void(0);" onclick="editRow(this)" title="Sửa" class="fa-solid fa-pen-to-square"></a>
+                                    <a href="javascript:void(0);" onclick="viewDetails(this)" title="Chi tiết" class="fa-solid fa-circle-info"></a>
+                                    <a href="javascript:void(0);" onclick="deleteRow(this)" title="Xóa" class="fa-solid fa-trash"></a>
                                 </div>
                             </td>
 
@@ -58,4 +57,10 @@
         </div>
     </div>
 </div>
-
+<script src="~/lib/bootstrap/dist/js/bootstraps.js"></script>
+<script src="~/js/scripts.js"></script>
+<script src="~/js/chart.js"></script>
+<script src="~/js/chart-area.js"></script>
+<script src="~/js/chart-bar.js"></script>
+<script src="~/js/simple-database.js"></script>
+<script src="~/js/loaded.js"></script>

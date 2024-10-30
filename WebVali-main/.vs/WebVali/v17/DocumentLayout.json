@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\wwwroot\\js\\simple-database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\wwwroot\\js\\simple-database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\wwwroot\\js\\chart-pie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\wwwroot\\js\\chart-pie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|c:\\users\\huy ho\u00E0n\\documents\\technology software\\service-oriented architecture - soa (ptpmhdv)\\valistore\\webvali-main\\webvali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstraps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{585DA3DE-BB7C-4DB7-AF62-8BF9943CB77C}|WebVali\\WebVali.csproj|solutionrelative:webvali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstraps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,76 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "simple-database.js",
+              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\js\\simple-database.js",
+              "RelativeDocumentMoniker": "WebVali\\wwwroot\\js\\simple-database.js",
+              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\js\\simple-database.js",
+              "RelativeToolTip": "WebVali\\wwwroot\\js\\simple-database.js",
+              "ViewState": "AQIAAIUHAAAAAAAAAAAWwJkHAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T11:17:38.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebVali\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebVali\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:01:55.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Product.cshtml",
               "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Product\\Product.cshtml",
               "RelativeDocumentMoniker": "WebVali\\Views\\Product\\Product.cshtml",
               "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Product\\Product.cshtml",
               "RelativeToolTip": "WebVali\\Views\\Product\\Product.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-30T06:05:20.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebVali\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebVali\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T06:01:55.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Program.cs",
               "RelativeDocumentMoniker": "WebVali\\Program.cs",
               "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Program.cs",
               "RelativeToolTip": "WebVali\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwCYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T05:57:54.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T05:57:54.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\appsettings.json",
-              "RelativeDocumentMoniker": "WebVali\\appsettings.json",
-              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\appsettings.json",
-              "RelativeToolTip": "WebVali\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T05:56:39.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "chart-pie.js",
-              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\js\\chart-pie.js",
-              "RelativeDocumentMoniker": "WebVali\\wwwroot\\js\\chart-pie.js",
-              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\js\\chart-pie.js",
-              "RelativeToolTip": "WebVali\\wwwroot\\js\\chart-pie.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-30T05:56:23.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "QlbanVaLiContext.cs",
               "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Models\\QlbanVaLiContext.cs",
               "RelativeDocumentMoniker": "WebVali\\Models\\QlbanVaLiContext.cs",
@@ -131,73 +107,55 @@
               "RelativeToolTip": "WebVali\\Models\\QlbanVaLiContext.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:28:58.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:28:58.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.cshtml",
               "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Home\\Product.cshtml",
               "RelativeDocumentMoniker": "WebVali\\Views\\Home\\Product.cshtml",
               "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Home\\Product.cshtml",
               "RelativeToolTip": "WebVali\\Views\\Home\\Product.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAUAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:25:41.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:25:41.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebVali\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebVali\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:22:26.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebVali\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebVali\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:21:49.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "bootstraps.js",
-              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstraps.js",
-              "RelativeDocumentMoniker": "WebVali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstraps.js",
-              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstraps.js",
-              "RelativeToolTip": "WebVali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstraps.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-29T13:20:10.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebVali\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebVali\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAABDAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:16:29.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:16:29.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\appsettings.json",
+              "RelativeDocumentMoniker": "WebVali\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\appsettings.json",
+              "RelativeToolTip": "WebVali\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T05:56:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "WebVali\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Huy Ho\u00E0n\\Documents\\Technology Software\\Service-Oriented Architecture - SOA (PTPMHDV)\\ValiStore\\WebVali-main\\WebVali\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "WebVali\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAD0yAAAAAAAAAAAAAEsyAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T10:20:02.316Z"
             }
           ]
         }
